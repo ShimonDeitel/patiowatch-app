@@ -1,0 +1,45 @@
+{
+  "identifier": "2A5F0000-0000-0000-0000-000000000000",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US",
+    "_developerObserverModeEnabled": false,
+    "_storefront": "USA",
+    "_storeKitErrors": []
+  },
+  "subscriptionGroups": [
+    {
+      "id": "20000001",
+      "localizations": [],
+      "name": "Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "10000001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Seasonal cover-on/cover-off reminders",
+              "displayName": "Patiowatch Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.patiowatch.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Pro Monthly",
+          "subscriptionGroupID": "20000001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
